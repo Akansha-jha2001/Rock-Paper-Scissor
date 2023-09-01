@@ -1,9 +1,9 @@
 
 
 const handOptions = {
-    rock: "/image/rock.png",
-    scissor: "/image/scissor.png",
-    paper: "/image/paper.png",
+    rock: "image/rock.png",
+    scissor: "image/scissor.png",
+    paper: "image/paper.png",
   };
   
   const btnRules = document.querySelector(".rules-btn");
